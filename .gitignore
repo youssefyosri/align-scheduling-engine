@@ -66,3 +66,9 @@ android/key.properties
 # Firebase generated configuration files containing API keys
 lib/core/firebase/firebase_options_dev.dart
 lib/core/firebase/firebase_options_prod.dart
+
+# Corrected Firebase Path
+android/app/src/google-services.json
+
+# Ignore generated environment variable files
+lib/core/env/*.g.dart
