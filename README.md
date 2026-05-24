@@ -1,6 +1,6 @@
 # Align: Real-Time Scheduling Engine
 
-[![Watch the Align Demo](https://github.com/user-attachments/assets/b2acdba6-d9b3-411a-b8b4-378b989d8c29)](https://youtu.be/YOUR-UNLISTED-LINK)
+[![Watch the Align Demo](https://github.com/user-attachments/assets/b2acdba6-d9b3-411a-b8b4-378b989d8c29)](https://www.youtube.com/watch?v=YekSPZ_n0dg)
 
 ## Overview
 Align is a scheduling engine built to solve a founder’s worst nightmare: data desyncs and double-bookings. This project was stress-tested across concurrent emulator sessions to prove that the backend architecture can handle parallel read/writes and resolve global availability states flawlessly.
